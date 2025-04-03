@@ -84,7 +84,7 @@ Este projeto utiliza a API do Open Exchange Rates. Para que a conversão funcion
 
 ## 📸 Capturas de Tela
 
-<img src="https://imgur.com/a/3zOTQlP" alt="Tela do Conversor de Moedas Barbie" width="600" />
+<img src="https://i.ibb.co/93qMC8ZC/image.png" alt="Tela do Conversor de Moedas Barbie" width="600" />
 
 ## 🤝 Contribuição
 
